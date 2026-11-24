@@ -1,10 +1,10 @@
 # Assessment Item Difficulty Study
 
 **Pathway:** Generative AI & Data Science (Beginner Stag)  
-**Capstone Project:** #5 — Assessment Item Difficulty Stan)  
+**Capstone Project:** Assessment Item Difficulty Study 
 
 ## Overview
-Teachers often review overall exam averages without knowing which individual questions are poorly worded, overly easy, too difficult, or misl_span). This project evaluates item-level response data to calculate **item difficulty** and **item discrimination** metrics and highlight items for teacher _span).
+Teachers often review overall exam averages without knowing which individual questions are poorly worded, overly easy, too difficult, or misleading. 
 
 ## Project Files & Deliverables
 - `generate_dataset.py` — Generates synthetic student-item response data (`raw_quiz_responses.csv`) with realistic missing values, duplicates, and edge-case end_span).
@@ -15,8 +15,8 @@ Teachers often review overall exam averages without knowing which individual que
 - `outputs/item_review_report.csv` — Computed item metrics, review flags, notes, and uncer_35](end_span).
 - `outputs/difficulty_vs_discrimination.png` — Scatter/quadrant chart comparing item difficulty andn_37](end_span).
 - `outputs/item_difficulty_overview.png` — Ranked horizontal bar chart of item difficulty aan_39](end_span).
-- **PreAssessment_Item_Difficulty_Study.pdfpan_40](end_span)
-- **Demo Video (3–5 mins):** `[Add demo.span_Generate the synthetic dataset
+- Presentation PDF: Assessment_Item_Difficulty_Study.pdf
+- Demo Video (3–5 mins): `[Add demo.span_Generate the synthetic dataset
 python generate_dataset.py
 
 ## to run
@@ -35,5 +35,5 @@ Open item_difficulty_study.ipynb in jupyter, click restart and run all, and veri
 
 ## AI-Use Reflection
 ​What I Built Independently: Data generation, cleaning logic, psychometric calculations, visualizations, and verification checks.  
-​How AI Assisted: Used AI guidance to structure the workflow, refine explanations, and draft,'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' code and documentation.  
-​How I Verified Results: Re-ran the full notebook end-to-end, checked generated files in data/ and outputs/, and inspected raw response/option distributions on flagged items.all -r requirements.txt
+​How AI Assisted: Used AI guidance to structure the workflow, refine explanations, and draft code and documentation.  
+​How I Verified Results: Re-ran the full notebook end-to-end, checked generated files in data/ and outputs/, and inspected raw response/option distributions on flagged item
