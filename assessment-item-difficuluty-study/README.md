@@ -16,7 +16,7 @@ Teachers often review overall exam averages without knowing which individual que
 - `outputs/difficulty_vs_discrimination.png` — Scatter/quadrant chart comparing item difficulty and flagged item.
 - `outputs/item_difficulty_overview.png` — Ranked horizontal bar chart of item difficulty aan_39](end_span).
 - Presentation PDF: Assessment_Item_Difficulty_Study.pdf
-- Demo Video (3–5 mins): `[Add demo.span_Generate the synthetic dataset
+- Demo Video (3–5 mins): https://www.loom.com/share/9c68a1a50a12400694f197918ec870ff
 ## Generate the synthetic dataset
 python generate_dataset.py
 
